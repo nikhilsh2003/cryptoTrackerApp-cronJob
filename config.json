@@ -1,0 +1,18 @@
+{
+  "assets": [
+    {
+      "name": "bitcoin",
+      "symbol": "BTC",
+      "type": "crypto",
+      "min": 60000,
+      "max": 70000
+    },
+    {
+      "name": "ethereum",
+      "symbol": "ETH",
+      "type": "crypto",
+      "min": 3000,
+      "max": 4000
+    }
+  ]
+}
